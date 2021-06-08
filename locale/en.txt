@@ -1,0 +1,42 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = GENERAL DEPARTMENT OF TAXATION
+
+## Skin
+
+### Button
+Button_797CCC04_7724_8647_41C7_42A9E8F872B9.label = MINI MAP
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20.0618px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20.06px;"><B><I>GDT Ground Floor Commerical Area</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_EB5195D5_E547_62EC_41E8_A473A07D3BF0.label = 24GDT-GF-R00-PART 2-MAP
+panorama_EE114CB0_E514_AEBE_41E5_F788242346D2.label = 01
+panorama_EF195544_E514_9FE6_41DE_6F91F1F1F1E4.label = 02
+panorama_EF1F05CE_E514_FEE2_41E2_7EA300725204.label = 04
+panorama_EF1F16B2_E514_9AA2_41D3_472F3182C8FB.label = 10
+panorama_EF1F3676_E514_BDA2_41D1_4F4C6AB1502A.label = 08
+panorama_EF1F4D54_E514_EFE7_41BE_A18D1D5E7106.label = 03
+panorama_EF1F4DDA_E514_EEE2_41A7_532CD507EBB5.label = 05
+panorama_EF1F75DA_E514_9EE2_41D4_340E9164A9A2.label = 06
+panorama_EF1FCDFD_E514_AEA6_4196_79BEA2D6237C.label = 07
+panorama_EF1FCE85_E514_AD66_41EC_159F043D6B83.label = 09
+
+## Action
+
+### URL
+LinkBehaviour_62794666_79E9_03EC_41D4_DDAD94DA9992.source = https://www.cmedcc.com/
+LinkBehaviour_6C7D38B0_671C_6FF3_41BD_FA54706086B5.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_6C7D48B0_671C_6FF3_41B6_9AB60445937E.source = https://www.linkedin.com/company/cmedcc/
